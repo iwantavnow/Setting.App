@@ -4,24 +4,29 @@
 
 # Setting.App
 Setting.App (AV TV) 是一個免費 App，提供了聚合網站資源的功能，提供使用者一站式的體驗。
-
+* [服務條款](https://github.com/iwantavnow/Setting.App/blob/master/TERMS_zh.md)
+* [聲明](https://github.com/iwantavnow/Setting.App/blob/master/STATEMENT_zh.md)
+* [DMCA 法案](https://github.com/iwantavnow/Setting.App/blob/master/DCMA_zh.md)
+* [18 U.S.C. § 2257](https://github.com/iwantavnow/Setting.App/blob/master/2257_zh.md)
 
 # Android
-* [Release](https://github.com/iwantavnow/Setting.App-Android)
+* [專案發布位址](https://github.com/iwantavnow/Setting.App-Android)
 * Build Minimum SDK
   * SDK 19 with AndroidX
   * Legacy: SDK 16
 * Support Architectures
-  * ARMv5
-  * ARMv7a
-  * ARM64
-  * X86
-  * X86_64
+  * armv5
+  * armv7a
+  * arm64
+  * x86
+  * x86_64
 
 # iOS
-* [Release](https://github.com/iwantavnow/Setting.App-iOS)
+* [專案發布位址](https://github.com/iwantavnow/Setting.App-iOS)
 * Minimum Deployment
   * iOS 9
   * iPadOS 13
 * Support Architectures
-  * ARM64
+  * arm64
+  * i386
+  * x86_64
