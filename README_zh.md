@@ -17,7 +17,7 @@
 企業簽證發布 | 手機 | 簡易 | 不穩定 | 🚧 | 
 測試裝置發布 | 手機 | 簡易、穩定 | 簽證費用高 | 🚧 | 
 Testflight 發布 | 手機 | 簡易、穩定 | 複雜的部署方式 | 🚧 | 
-AltServer 安裝器 | PC/Mac | 無費用 | 需要 PC/Mac 進行安裝 | 🟢 | [Windows 安裝說明](https://github.com/iwantavnow/Setting.App/blob/master/AltServerWindows_zh.md)
+AltServer 安裝器 | PC/Mac | 無費用 | 需要 PC/Mac 進行安裝 | 🟢 | [Windows 安裝說明](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows_zh.md)
 
 > 非常歡迎各式發佈資源與我們聯繫合作，[請聯絡我們](mailto:iwantavnow@gmail.com)。
 
@@ -26,10 +26,10 @@ AltServer 安裝器 | PC/Mac | 無費用 | 需要 PC/Mac 進行安裝 | 🟢 | [
 * [變更日誌](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
 # 產品資訊
-* [服務條款](https://github.com/iwantavnow/Setting.App/blob/master/TERMS_zh.md)
-* [聲明](https://github.com/iwantavnow/Setting.App/blob/master/STATEMENT_zh.md)
-* [DMCA 法案](https://github.com/iwantavnow/Setting.App/blob/master/DCMA_zh.md)
-* [18 U.S.C. § 2257](https://github.com/iwantavnow/Setting.App/blob/master/2257_zh.md)
+* [服務條款](https://github.com/iwantavnow/Setting.App/blob/master/Info/Terms_zh.md)
+* [聲明](https://github.com/iwantavnow/Setting.App/blob/master/Info/Statement_zh.md)
+* [DMCA 法案](https://github.com/iwantavnow/Setting.App/blob/master/Info/DCMA_zh.md)
+* [18 U.S.C. § 2257](https://github.com/iwantavnow/Setting.App/blob/master/Info/2257_zh.md)
 
 # 發布 Repository
 * [Setting.App-iOS](https://github.com/iwantavnow/Setting.App-iOS)
