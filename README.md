@@ -17,7 +17,7 @@ Installation | Via | Advantage | Disadvantage | Status | Description
 Enterprise Distribution | Phone | Easy | Unstable | 🚧 | 
 Test Device Distribution | Phone | Easy, Stable | Super Expansive | 🚧 | 
 Testflight Distribution | Phone | Easy, Stable | Gimmicky Deployment | 🚧 | 
-AltServer Installer | PC/Mac | Costless | Require PC/Mac | 🟢 | [Windows Guide](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md)
+AltServer Installer | PC/Mac | Costless | Require PC/Mac | ✅ | [Windows Guide](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md)
 
 > It is very welcomed to cooperate with any distribution providers, [please contact us](mailto:iwantavnow@gmail.com).
 
