@@ -1,7 +1,7 @@
 ### [English](https://github.com/iwantavnow/Setting.App/blob/master/README.md) / [中文](https://github.com/iwantavnow/Setting.App/blob/master/README_zh.md)
 
 # Setting.App
-[Setting.App (AV TV)](https://setting.app) 是一個**免費 App**，提供了聚合網站資源的功能，提供使用者一站式的體驗。提供了完整的多媒體功能，如：**影片、漫畫、動畫、直播、VR、遊樂場**。也提供了 AI 的功能，如：**圖片搜尋**。也提供了雲端功能，如：**最愛系統**。
+[Setting.App (AV TV)](https://setting.app/tw.php) 是一個**免費 App**，提供了聚合網站資源的功能，提供使用者一站式的體驗。提供了完整的多媒體功能，如：**影片、漫畫、動畫、直播、VR、遊樂場**。也提供了 AI 的功能，如：**圖片搜尋**。也提供了雲端功能，如：**最愛系統**。
 
 # Android
 * 安裝
