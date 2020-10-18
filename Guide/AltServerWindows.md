@@ -1,10 +1,10 @@
 ### [English](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md) / [中文](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows_zh.md)
 
-# AltServer Installer on Windows
+# AltServer Installer - Windows Version
 This installer is used to install **Setting.App(AV TV)** on iPhone/iPad by **Windows 10 PC**.
 
 # Installation Guide
-### A: Install Apple Tool on PC
+### A: Install Apple Tools on PC
 1. Install iTunes: [Download 64-bit](https://www.apple.com/itunes/download/win64), [Download 32-bit](https://www.apple.com/itunes/download/win32)
 2. Install iCloud: [Download](https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe)
 3. Link iPhone/iPad to Windows PC **on wire**
@@ -12,7 +12,7 @@ This installer is used to install **Setting.App(AV TV)** on iPhone/iPad by **Win
 
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TrustPC.jpg" width="400">
 
-### B: Install AltServer Installer  on PC
+### B: Install AltServer Installer on PC
 1. Install customized AltServer Installer: [Download](https://github.com/iwantavnow/Setting.App-iOS/releases/download/v1.3.1-aw/Release.zip)
 2. Start AltServer process(Start Menu >> AltServer)
 3. Check both **Private networks & Public networks**, Allow access
