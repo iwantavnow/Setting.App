@@ -13,7 +13,7 @@ This installer is used to install **Setting.App(AV TV)** on iPhone/iPad by **Win
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TrustPC.jpg" width="400">
 
 ### B: Install AltServer Installer on PC
-1. Install customized AltServer Installer: [Download](https://github.com/iwantavnow/Setting.App-iOS/releases/download/v1.3.1-aw/Release.zip)
+1. Install customized AltServer Installer: [Download](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
 2. Start AltServer process(Start Menu >> AltServer)
 3. Check both **Private networks & Public networks**, Allow access
 
@@ -28,8 +28,8 @@ This installer is used to install **Setting.App(AV TV)** on iPhone/iPad by **Win
 
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/AppleID.jpg" width="400">
 
-3. Confirm login and get 6-dight verification code on iPhone/iPad
-4. Enter 6-dight verification code on PC dialog
+3. Confirm login and get 6-digit verification code on iPhone/iPad
+4. Enter 6-digit verification code on PC dialog
 
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TwoFactor.jpg" width="400">
 

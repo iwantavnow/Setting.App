@@ -13,7 +13,7 @@
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TrustPC.jpg" width="400">
 
 ### B: 在電腦安裝 AltServer 安裝器（僅第一次需要）
-1. 安裝客製版 AltServer 安裝器：[點我下載](https://github.com/iwantavnow/Setting.App-iOS/releases/download/v1.3.1-aw/Release.zip)
+1. 安裝客製版 AltServer 安裝器：[點我下載](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
 2. 啟動 AltServer 程式（開始功能表 >> AltServer）
 3. 將「**私人網路**」、「**公開網路**」兩者都打勾，允許存取
 
@@ -34,7 +34,7 @@
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TwoFactor.jpg" width="400">
 
 5. 開始安裝（20 秒 ~ 1 分鐘）
-### D: 在 iOS/iPad 信任帳號
+### D: 在 iPhone/iPad 信任帳號
 1. 在 iPhone/iPad 上，點擊 設定 >> 一般 >> 裝置管理
 2. 選擇安裝 App 所使用的 **[Apple ID]**
 3. 點擊 信任 **[Apple ID]** >> 信任
