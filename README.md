@@ -21,8 +21,11 @@ AltServer Installer | PC/Mac | Costless | Require PC/Mac | ✅ | [Windows Guide]
 
 > It is very welcomed to cooperate with any distribution providers, [please contact us](mailto:iwantavnow@gmail.com).
 
-* Download IPA for Jailbreak Devices
-  * [Repository](https://github.com/iwantavnow/Setting.App-iOS/releases)
+* Download for General iOS Devices
+  * [Installer Only](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
+  * [PC->Phone Installer Bundle (iTunes, iCloud, Installer, Instructions)](https://github.com/iwantavnow/Setting.App/releases/download/b1.3.1-fix/Setting.App-iOS.zip)
+* Download for Jailbreak iOS Devices
+  * [IPA File](https://github.com/iwantavnow/Setting.App-iOS/releases)
 * [Changelog](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
 # Information

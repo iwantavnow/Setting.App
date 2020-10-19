@@ -21,8 +21,11 @@ AltServer 安裝器 | PC/Mac | 無費用 | 需要 PC/Mac 進行安裝 | ✅ | [W
 
 > 非常歡迎各式發佈資源與我們聯繫合作，[請聯絡我們](mailto:iwantavnow@gmail.com)。
 
-* 下載 IPA 檔案（越獄裝置使用）
-  * [Repository](https://github.com/iwantavnow/Setting.App-iOS/releases)
+* 一般裝置下載
+  * [僅安裝器](https://github.com/iwantavnow/Setting.App-iOS/releases)
+  * [完整安裝包（iTunes、iCloud、安裝器、說明文件）](https://github.com/iwantavnow/Setting.App-iOS/releases)
+* 越獄裝置下載
+  * [IPA 檔案](https://github.com/iwantavnow/Setting.App-iOS/releases)
 * [變更日誌](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
 # 產品資訊
