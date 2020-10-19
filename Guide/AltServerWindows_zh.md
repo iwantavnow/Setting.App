@@ -13,7 +13,7 @@
 　<img src="https://github.com/iwantavnow/Setting.App/raw/master/Image/TrustPC.jpg" width="400">
 
 ### B: 在電腦安裝 AltServer 安裝器（僅第一次需要）
-1. 安裝客製版 AltServer 安裝器：[點我下載](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
+1. 安裝客製版 AltServer 安裝器：[點我下載](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)（保護狀態的電腦請點擊「其他資訊」>>「仍要安裝」）
 2. 啟動 AltServer 程式（開始功能表 >> AltServer）
 3. 將「**私人網路**」、「**公開網路**」兩者都打勾，允許存取
 
