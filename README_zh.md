@@ -12,23 +12,24 @@
 * [變更日誌](https://github.com/iwantavnow/Setting.App-Android/releases)
 
 # iOS
-安裝方式 | 媒介 | 優點 | 缺點 | 狀態 | 描述
+安裝方式 | 媒介 | 優點 | 缺點 | 狀態 | 資訊
 ----- |  ----- | ----- | ----- | ----- | -----
 企業簽證發布 | 手機 | 簡易 | 不穩定 | 🚧 | 
 測試裝置發布 | 手機 | 簡易、穩定 | 簽證費用高 | 🚧 | 
 Testflight 發布 | 手機 | 簡易、穩定 | 複雜的部署方式 | 🚧 | 
-AltServer 安裝器 | PC/Mac | 無費用 | 需要 PC/Mac 進行安裝 | ✅ | [Windows 安裝說明](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows_zh.md)
+AltServer 安裝器 | 電腦 | 無費用 | 需要透過電腦進行安裝 | ✅ | [安裝說明](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows_zh.md)
 
 > 非常歡迎各式發佈資源與我們聯繫合作，[請聯絡我們](mailto:iwantavnow@gmail.com)。
 
 * 一般裝置下載
-  * [僅安裝器](https://github.com/iwantavnow/Setting.App-iOS/releases)
-  * [完整安裝包（iTunes、iCloud、安裝器、說明文件）](https://github.com/iwantavnow/Setting.App-iOS/releases)
+  * [僅安裝器](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
+  * [「電腦 → 手機」完整安裝包（iTunes、iCloud、安裝器、安裝說明文件）](https://github.com/iwantavnow/Setting.App/releases/download/b1.3.1-fix/Setting.App-iOS.zip)
 * 越獄裝置下載
   * [IPA 檔案](https://github.com/iwantavnow/Setting.App-iOS/releases)
 * [變更日誌](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
 # 產品資訊
+* [官方網站](https://setting.app/tw.php)
 * [服務條款](https://github.com/iwantavnow/Setting.App/blob/master/Info/Terms_zh.md)
 * [聲明](https://github.com/iwantavnow/Setting.App/blob/master/Info/Statement_zh.md)
 * [DMCA 法案](https://github.com/iwantavnow/Setting.App/blob/master/Info/DCMA_zh.md)
