@@ -3,9 +3,9 @@
 # Setting.App
 [Setting.App (AV TV)](https://setting.app/tw.php) 是一個**免費 App**，提供了聚合網站資源的功能，提供使用者一站式的體驗。提供了完整的多媒體功能，如：**影片、漫畫、動畫、直播、VR、遊樂場**。也提供了 AI 的功能，如：**圖片搜尋**。也提供了雲端功能，如：**最愛系統**。
 
-# Hello World 👋
-App 的主要創始開發者目前正在尋找新的工作機會。如果有前輩或有緣人賞識，歡迎與我們聯繫。
-* Telegram: +85261549722
+# Please Hire Me 👋
+App 的創始開發者正在尋找新的工作機會，期待有緣人的聯繫與推薦
+* Telegram: +852 61549722
 * Email: setting.app@protonmail.com
 
 # Android

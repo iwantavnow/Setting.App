@@ -3,8 +3,8 @@
 # Setting.App
 [Setting.App (AV TV)](https://setting.app) is a **Free App** provides the ability to aggregate multiple internet resources. Let users have a one-stop experience. Provide multimedia functions, such as: **Video, Comic, Anime, Live, VR, Playground**. Provide AI functions, such as: **Image Search**. Provide cloud functions, such as: **Favorite System**.
 
-# Hello World 👋
-The main founding developer of this App has now being available for hire. If there are any interesting, challenging opportunities, please contact us.
+# Please Hire Me 👋
+The founding developer of this App is looking for a job. Wait for good news, please contact us.
 * Telegram: +852 61549722
 * Email: setting.app@protonmail.com
 
