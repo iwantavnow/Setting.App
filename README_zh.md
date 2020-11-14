@@ -3,11 +3,6 @@
 # Setting.App
 [Setting.App (AV TV)](https://setting.app/tw.php) 是一個**免費 App**，提供了聚合網站資源的功能，提供使用者一站式的體驗。提供了完整的多媒體功能，如：**影片、漫畫、動畫、直播、VR、遊樂場**。也提供了 AI 的功能，如：**圖片搜尋**。也提供了雲端功能，如：**最愛系統**。
 
-# Please Hire Me 👋
-App 的創始開發者正在尋找新的工作機會，期待有緣人的聯繫與推薦
-* Telegram: +852 61549722
-* Email: setting.app@protonmail.com
-
 # Android
 * 安裝
   * 側載 APK 檔案
@@ -47,3 +42,24 @@ AltServer 安裝器 | 電腦 | 無費用 | 需要透過電腦進行安裝 | ✅ 
 # 特別感謝
 * [@rileytestut](https://github.com/rileytestut)
 * https://github.com/rileytestut/AltServer-Windows
+
+# Please Hire Me 👋
+App 的創始開發者正在尋找新的工作機會，期待有緣人的聯繫與推薦
+* Telegram: +852 61549722
+* Email: setting.app@protonmail.com
+### Skill Set
+* iOS, macOS Development
+  * Swift, Objective-C
+* Android Development
+  * Java, Kotlin
+* Backend / DB / Cloud
+  * MongoDB, PostgreSQL
+  * Parse, Firebase, Node.js, PHP
+  * GCP, AWS
+### Wishlist
+* Senior iOS Engineer
+* Senior Android Engineer
+* Senior Mobile Engineer
+* Project Manager
+* Product Manager
+* More...
