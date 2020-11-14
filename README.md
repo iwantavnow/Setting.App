@@ -3,11 +3,6 @@
 # Setting.App
 [Setting.App (AV TV)](https://setting.app) is a **Free App** provides the ability to aggregate multiple internet resources. Let users have a one-stop experience. Provide multimedia functions, such as: **Video, Comic, Anime, Live, VR, Playground**. Provide AI functions, such as: **Image Search**. Provide cloud functions, such as: **Favorite System**.
 
-# Please Hire Me 👋
-The founding developer of this App is looking for a job. Wait for good news, please contact us.
-* Telegram: +852 61549722
-* Email: setting.app@protonmail.com
-
 # Android
 * Installation
   * Sideload Apps over APK File
@@ -48,3 +43,24 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 # Special Thanks
 * [@rileytestut](https://github.com/rileytestut)
 * https://github.com/rileytestut/AltServer-Windows
+
+# Please Hire Me 👋
+The founding developer of this App is looking for a job. Wait for good news, please contact us.
+* Telegram: +852 61549722
+* Email: setting.app@protonmail.com
+### Skill Set
+* iOS, macOS Development
+  * Swift, Objective-C
+* Android Development
+  * Java, Kotlin
+* Backend / DB / Cloud
+  * MongoDB, PostgreSQL
+  * Parse, Firebase, Node.js, PHP
+  * GCP, AWS
+### Wishlist
+* Senior iOS Engineer
+* Senior Android Engineer
+* Senior Mobile Engineer
+* Project Manager
+* Product Manager
+* More...
