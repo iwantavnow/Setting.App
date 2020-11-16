@@ -45,7 +45,7 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 * https://github.com/rileytestut/AltServer-Windows
 
 # Please Hire Me 👋
-The founding developer of this App is looking for a job. Wait for good news, please contact us.
+Hi, I am now looking for a job. If you want to hire me, please contact me.
 * Telegram: +852 61549722
 * Email: setting.app@protonmail.com
 ### Skill Set
@@ -57,7 +57,7 @@ The founding developer of this App is looking for a job. Wait for good news, ple
   * MongoDB, PostgreSQL
   * Parse, Firebase, Node.js, PHP
   * GCP, AWS
-### Wishlist
+### Suitable for
 * Senior iOS Engineer
 * Senior Android Engineer
 * Senior Mobile Engineer
