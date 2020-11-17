@@ -6,27 +6,31 @@
 # Android
 * Installation
   * Sideload Apps over APK File
+* [Changelog](https://github.com/iwantavnow/Setting.App-Android/releases)
 * Download APK
   * [WebSite](https://setting.app)
   * [Repository](https://github.com/iwantavnow/Setting.App-Android/releases)
-* [Changelog](https://github.com/iwantavnow/Setting.App-Android/releases)
 
 # iOS
 Installation | Via | Advantage | Disadvantage | Status | Information
 ----- |  ----- | ----- | ----- | ----- | -----
-Enterprise Distribution | Phone | Easy | Unstable | 🚧 | 
+Enterprise Distribution | Phone | Easy | Unstable | ✅ | [Install on iPhone/iPad](https://setting.app)
 Test Device Distribution | Phone | Easy, Stable | Super Expansive | 🚧 | 
 Testflight Distribution | Phone | Easy, Stable | Gimmicky Deployment | 🚧 | 
 AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md)
 
 > It is very welcomed to cooperate with any distribution providers, [please contact us](mailto:iwantavnow@gmail.com).
 
-* Download for General iOS Devices
+* [Changelog](https://github.com/iwantavnow/Setting.App-iOS/releases)
+
+### Enterprise Distribution
+* [Install on iPhone/iPad](https://setting.app)
+### AltServer Installer
+* Download Installer for General iPhone/iPad
   * [Installer Only](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
   * [PC → Phone Installer Bundle (iTunes, iCloud, Installer, Installation Guide)](https://github.com/iwantavnow/Setting.App/releases/download/b1.3.1-fix/Setting.App-iOS.zip)
-* Download for Jailbreak iOS Devices
+* Download IPA file for Jailbreak iPhone/iPad
   * [IPA File](https://github.com/iwantavnow/Setting.App-iOS/releases)
-* [Changelog](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
 # Information
 * [WebSite](https://setting.app)
