@@ -14,7 +14,7 @@
 # iOS
 Installation | Via | Advantage | Disadvantage | Status | Information
 ----- |  ----- | ----- | ----- | ----- | -----
-Enterprise Distribution | Phone | Easy | Unstable | ✅ | [Install on iPhone/iPad](https://setting.app)
+Enterprise Distribution | Phone | Easy | Unstable | 🚧 | 
 Test Device Distribution | Phone | Easy, Stable | Super Expansive | 🚧 | 
 Testflight Distribution | Phone | Easy, Stable | Gimmicky Deployment | 🚧 | 
 AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md)
@@ -23,8 +23,6 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 
 * [Changelog](https://github.com/iwantavnow/Setting.App-iOS/releases)
 
-### Enterprise Distribution
-* [Install on iPhone/iPad](https://setting.app)
 ### AltServer Installer
 * Download Installer for General iPhone/iPad
   * [Installer Only](https://github.com/iwantavnow/Setting.App/releases/download/v1.3.1-fix/AltServer.msi)
