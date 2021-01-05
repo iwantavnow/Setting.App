@@ -16,12 +16,15 @@ Installation | Via | Advantage | Disadvantage | Status | Information
 ----- |  ----- | ----- | ----- | ----- | -----
 Enterprise Distribution | Phone | Easy | Unstable | 🚧 | 
 Test Device Distribution | Phone | Easy, Stable | Super Expansive | 🚧 | 
-Testflight Distribution | Phone | Easy, Stable | Gimmicky Deployment | 🚧 | 
+Testflight Distribution | Phone | Easy, Stable | Gimmicky Deployment | ✅ | 
 AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](https://github.com/iwantavnow/Setting.App/blob/master/Guide/AltServerWindows.md)
 
 > It is very welcomed to cooperate with any distribution providers, [please contact us](mailto:iwantavnow@gmail.com).
 
 * [Changelog](https://github.com/iwantavnow/Setting.App-iOS/releases)
+
+### Testflight Distribution
+* [WebSite](https://setting.app)
 
 ### AltServer Installer
 * Download Installer for General iPhone/iPad
@@ -40,7 +43,6 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 # Release Repository
 * [Setting.App-iOS](https://github.com/iwantavnow/Setting.App-iOS)
 * [Setting.App-Android](https://github.com/iwantavnow/Setting.App-Android)
-
 
 # Special Thanks
 * [@rileytestut](https://github.com/rileytestut)
