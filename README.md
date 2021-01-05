@@ -49,7 +49,7 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 * https://github.com/rileytestut/AltServer-Windows
 
 # Please Hire Me 👋
-Hi, I am now looking for a job. If you want to hire me, please contact me.
+Hi, I am now open to work. If you want to hire me, please contact me.
 * Telegram: +852 61549722
 * Email: setting.app@protonmail.com
 ### Skill Set
