@@ -47,24 +47,3 @@ AltServer Installer | PC | Costless | Require PC | ✅ | [Installation Guide](ht
 # Special Thanks
 * [@rileytestut](https://github.com/rileytestut)
 * https://github.com/rileytestut/AltServer-Windows
-
-# Please Hire Me 👋
-Hi, I am now open to work. If you want to hire me, please contact me.
-* Telegram: +852 61549722
-* Email: setting.app@protonmail.com
-### Skill Set
-* iOS, macOS Development
-  * Swift, Objective-C
-* Android Development
-  * Java, Kotlin
-* Backend / DB / Cloud
-  * MongoDB, PostgreSQL
-  * Parse, Firebase, Node.js, PHP
-  * GCP, AWS
-### Suitable for
-* Senior iOS Engineer
-* Senior Android Engineer
-* Senior Mobile Engineer
-* Project Manager
-* Product Manager
-* More...
