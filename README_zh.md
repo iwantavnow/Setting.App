@@ -47,24 +47,3 @@ AltServer 安裝器 | 電腦 | 無費用 | 需要透過電腦進行安裝 | ✅ 
 # 特別感謝
 * [@rileytestut](https://github.com/rileytestut)
 * https://github.com/rileytestut/AltServer-Windows
-
-# Please Hire Me 👋
-您好，我現在正在尋找新的工作機會，期待有緣人的聯繫與介紹
-* Telegram: +852 61549722
-* Email: setting.app@protonmail.com
-### Skill Set
-* iOS, macOS Development
-  * Swift, Objective-C
-* Android Development
-  * Java, Kotlin
-* Backend / DB / Cloud
-  * MongoDB, PostgreSQL
-  * Parse, Firebase, Node.js, PHP
-  * GCP, AWS
-### Suitable for
-* Senior iOS Engineer
-* Senior Android Engineer
-* Senior Mobile Engineer
-* Project Manager
-* Product Manager
-* More...
